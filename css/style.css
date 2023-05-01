@@ -584,12 +584,25 @@ button {
 }
 
 .skill.html-css .bar {
-    background: linear-gradient(to right, var(--secondary) 75%, #222222 20%);
+    background: linear-gradient(to right, var(--secondary) 85%, #222222 20%);
+}
+
+.skill.node .bar {
+    background: linear-gradient(to right, var(--secondary) 85%, #222222 20%);
+}
+
+.skill.express .bar {
+    background: linear-gradient(to right, var(--secondary) 85%, #222222 20%);
+}
+
+.skill.hbs .bar {
+    background: linear-gradient(to right, var(--secondary) 85%, #222222 20%);
 }
 
 .skill.sql .bar {
-    background: linear-gradient(to right, var(--secondary) 70%, #222222 20%);
+    background: linear-gradient(to right, var(--secondary) 75%, #222222 20%);
 }
+
 .skill.android .bar {
     background: linear-gradient(to right, var(--secondary) 70%, #222222 20%);
 }
@@ -601,8 +614,9 @@ button {
 }
 
 .skill.javascript .bar {
-    background: linear-gradient(to right, var(--secondary) 40%, #222222 30%);
+    background: linear-gradient(to right, var(--secondary) 70%, #222222 30%);
 }
+
 .skill.matlab .bar {
     background: linear-gradient(to right, var(--secondary) 70%, #222222 30%);
 }
