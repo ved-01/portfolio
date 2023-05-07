@@ -1,3 +1,2 @@
 # portfolio
-Personal Webiste
-Will be updating it regularly with my work and future project
+Personal portfolio website! Will be keeping it updated with time!
